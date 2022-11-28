@@ -11,3 +11,28 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.home_title {
+  margin-top: 1em;
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.filter-container {
+  margin-top: 1em;
+}
+
+.filter-title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.filter-title p {
+  margin-right: 0.1em;
+}
+
+.filter-options {
+  display: flex;
+  justify-content: center;
+}
